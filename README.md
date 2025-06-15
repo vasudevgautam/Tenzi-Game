@@ -39,12 +39,12 @@ Tenzi is a fast-paced dice game where the goal is to roll all ten dice to show t
    git clone https://github.com/your-username/Tenzi-Game.git
    cd Tenzi-Game
 
----
 📸 Screenshots
 ![Screenshot](screenshot.png)
-
 ---
+
 📁 File Structure
+---
 src/
 ├── components/
 │   ├── Die.js
@@ -56,8 +56,13 @@ src/
 
 
 📋 How to Play
-1.Click "Start" and enter your name.
-2.Roll the dice.
-3.Click a die to "hold" its number.
-4.Keep rolling until all dice show the same number.
-5.Celebrate with 🎉 and beat your best time!
+---
+-1.Click "Start" and enter your name.
+
+-2.Roll the dice.
+
+-3.Click a die to "hold" its number.
+
+-4.Keep rolling until all dice show the same number.
+
+-5.Celebrate with 🎉 and beat your best time!
