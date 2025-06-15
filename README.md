@@ -39,10 +39,10 @@ Tenzi is a fast-paced dice game where the goal is to roll all ten dice to show t
    git clone https://github.com/your-username/Tenzi-Game.git
    cd Tenzi-Game
 
-
+---
 📸 Screenshots
 (screenshot.png)
-
+---
 📁 File Structure
 src/
 ├── components/
