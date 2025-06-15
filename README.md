@@ -41,7 +41,7 @@ Tenzi is a fast-paced dice game where the goal is to roll all ten dice to show t
 
 ---
 📸 Screenshots
-![Screenshot](screenshot.png)
+![Screenshot](screenshot (2).png)
 
 ---
 📁 File Structure
